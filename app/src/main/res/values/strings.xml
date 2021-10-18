@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TikTacToe Game By Vaibhav</string>
+    <string name="Heading">Welcome to Tic Tac Toe</string>
+    <string name="Grid">Our Main Grid</string>
+    <string name="ImageO">ImageO</string>
+    <string name="StartGame">X\'s turn, Tap to play</string>
+</resources>
